@@ -1,10 +1,4 @@
-## Project Download
+## Download Project Files
+#Autism-Spectrum-Disorder-ASD-Detection
 
-You can download and test the project from the Releases section.
-
-➡️ [Download Latest Release](your-release-link-here)
-
-Features:
-- Autism Detection using ML/AI
-- Image/Video prediction
-- Flask web application
+Project files are available in the **Releases** section of this repository for download and testing.
